@@ -12,7 +12,3 @@ let myTime = Date.now();
 console.log(myTime);
 console.log(createdate.getTime());
 console.log(Math.floor(Date.now()/1000));
-
-
-
-

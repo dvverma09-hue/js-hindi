@@ -16,6 +16,3 @@ console.log(anotherstring);
 
 const url = "abc#gmail.com"
 console.log(url.replace('#','@'));
-
-
-
