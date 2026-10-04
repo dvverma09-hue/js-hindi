@@ -3,7 +3,7 @@ const heros = ["ironman", "spiderman"]
 const Array2 = new Array(4,2,7,6,8)
 //console.log(array[3]);
 
-// Array method
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Array method
 
 array.push(1);
 //console.log(array);
@@ -29,10 +29,4 @@ console.log("B",array);
 const myn2 = array.splice(1,3);
 console.log(myn2);
 console.log("C",array);
-
-
-
-
-
-
 
